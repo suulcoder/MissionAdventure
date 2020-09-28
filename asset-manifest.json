@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/adventure/static/css/main.3708be19.chunk.css",
+    "main.js": "/adventure/static/js/main.718140ab.chunk.js",
+    "main.js.map": "/adventure/static/js/main.718140ab.chunk.js.map",
+    "runtime-main.js": "/adventure/static/js/runtime-main.afd66130.js",
+    "runtime-main.js.map": "/adventure/static/js/runtime-main.afd66130.js.map",
+    "static/js/2.4533fa19.chunk.js": "/adventure/static/js/2.4533fa19.chunk.js",
+    "static/js/2.4533fa19.chunk.js.map": "/adventure/static/js/2.4533fa19.chunk.js.map",
+    "index.html": "/adventure/index.html",
+    "precache-manifest.10fbf43854254a517e0a1a8333e25e1a.js": "/adventure/precache-manifest.10fbf43854254a517e0a1a8333e25e1a.js",
+    "service-worker.js": "/adventure/service-worker.js",
+    "static/css/main.3708be19.chunk.css.map": "/adventure/static/css/main.3708be19.chunk.css.map",
+    "static/js/2.4533fa19.chunk.js.LICENSE.txt": "/adventure/static/js/2.4533fa19.chunk.js.LICENSE.txt",
+    "static/media/SquareBlack.png": "/adventure/static/media/SquareBlack.411ec2c3.png",
+    "static/media/earth.png": "/adventure/static/media/earth.54231c06.png",
+    "static/media/logo.png": "/adventure/static/media/logo.674de013.png",
+    "static/media/satellite.png": "/adventure/static/media/satellite.5dae729e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.afd66130.js",
+    "static/js/2.4533fa19.chunk.js",
+    "static/css/main.3708be19.chunk.css",
+    "static/js/main.718140ab.chunk.js"
+  ]
+}
