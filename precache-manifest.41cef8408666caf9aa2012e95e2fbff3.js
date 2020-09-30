@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "72fa8f41b5977b86895baeafb9f779ac",
+    "revision": "8a8f7691e8ae9564e8f1ff38fd59c5a1",
     "url": "/adventure/index.html"
   },
   {
-    "revision": "7ed16c6b5023db75870c",
-    "url": "/adventure/static/css/main.9d64366e.chunk.css"
+    "revision": "6e5b3131579126ebdc16",
+    "url": "/adventure/static/css/main.6f977192.chunk.css"
   },
   {
     "revision": "59fbde5d86c90fac8dc0",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/adventure/static/js/2.96669e03.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7ed16c6b5023db75870c",
-    "url": "/adventure/static/js/main.6348a5c4.chunk.js"
+    "revision": "6e5b3131579126ebdc16",
+    "url": "/adventure/static/js/main.535c23ed.chunk.js"
   },
   {
     "revision": "e4166a28b80c1773ea4a",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e1f61e21fafa8579524189784e9abac5",
     "url": "/adventure/static/media/communication.e1f61e21.png"
+  },
+  {
+    "revision": "f2281ec4611163fb5be55df91e5b2625",
+    "url": "/adventure/static/media/dsn.f2281ec4.png"
   },
   {
     "revision": "54231c0670e8902d0d828b27f9f54904",
