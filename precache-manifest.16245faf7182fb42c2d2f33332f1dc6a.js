@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8a8f7691e8ae9564e8f1ff38fd59c5a1",
+    "revision": "041b55786e973c94c7300ba14a0c85c2",
     "url": "/adventure/index.html"
   },
   {
-    "revision": "6e5b3131579126ebdc16",
-    "url": "/adventure/static/css/main.6f977192.chunk.css"
+    "revision": "91974542fc75c74a21e2",
+    "url": "/adventure/static/css/main.dc295314.chunk.css"
   },
   {
-    "revision": "59fbde5d86c90fac8dc0",
-    "url": "/adventure/static/js/2.96669e03.chunk.js"
+    "revision": "6099ff510481cee730aa",
+    "url": "/adventure/static/js/2.da029461.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/adventure/static/js/2.96669e03.chunk.js.LICENSE.txt"
+    "url": "/adventure/static/js/2.da029461.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6e5b3131579126ebdc16",
-    "url": "/adventure/static/js/main.535c23ed.chunk.js"
+    "revision": "91974542fc75c74a21e2",
+    "url": "/adventure/static/js/main.5393a271.chunk.js"
   },
   {
     "revision": "e4166a28b80c1773ea4a",
@@ -26,6 +26,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "411ec2c37c72db64ffcdd497712ac69d",
     "url": "/adventure/static/media/SquareBlack.411ec2c3.png"
+  },
+  {
+    "revision": "665d4d9cf944ad1a58c6da0d7fae4c2d",
+    "url": "/adventure/static/media/australia.665d4d9c.png"
+  },
+  {
+    "revision": "5cb411c3c8c4b3d20beb3cdecaf25174",
+    "url": "/adventure/static/media/california.5cb411c3.png"
   },
   {
     "revision": "e1f61e21fafa8579524189784e9abac5",
@@ -66,5 +74,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5dae729ea7df123e75f5235451a2b445",
     "url": "/adventure/static/media/satellite.5dae729e.png"
+  },
+  {
+    "revision": "57124beb118f70041dc6201bd5360faa",
+    "url": "/adventure/static/media/spain.57124beb.png"
   }
 ]);

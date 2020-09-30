@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/adventure/static/css/main.6f977192.chunk.css",
-    "main.js": "/adventure/static/js/main.535c23ed.chunk.js",
-    "main.js.map": "/adventure/static/js/main.535c23ed.chunk.js.map",
+    "main.css": "/adventure/static/css/main.dc295314.chunk.css",
+    "main.js": "/adventure/static/js/main.5393a271.chunk.js",
+    "main.js.map": "/adventure/static/js/main.5393a271.chunk.js.map",
     "runtime-main.js": "/adventure/static/js/runtime-main.afd66130.js",
     "runtime-main.js.map": "/adventure/static/js/runtime-main.afd66130.js.map",
-    "static/js/2.96669e03.chunk.js": "/adventure/static/js/2.96669e03.chunk.js",
-    "static/js/2.96669e03.chunk.js.map": "/adventure/static/js/2.96669e03.chunk.js.map",
+    "static/js/2.da029461.chunk.js": "/adventure/static/js/2.da029461.chunk.js",
+    "static/js/2.da029461.chunk.js.map": "/adventure/static/js/2.da029461.chunk.js.map",
     "index.html": "/adventure/index.html",
-    "precache-manifest.41cef8408666caf9aa2012e95e2fbff3.js": "/adventure/precache-manifest.41cef8408666caf9aa2012e95e2fbff3.js",
+    "precache-manifest.16245faf7182fb42c2d2f33332f1dc6a.js": "/adventure/precache-manifest.16245faf7182fb42c2d2f33332f1dc6a.js",
     "service-worker.js": "/adventure/service-worker.js",
-    "static/css/main.6f977192.chunk.css.map": "/adventure/static/css/main.6f977192.chunk.css.map",
-    "static/js/2.96669e03.chunk.js.LICENSE.txt": "/adventure/static/js/2.96669e03.chunk.js.LICENSE.txt",
+    "static/css/main.dc295314.chunk.css.map": "/adventure/static/css/main.dc295314.chunk.css.map",
+    "static/js/2.da029461.chunk.js.LICENSE.txt": "/adventure/static/js/2.da029461.chunk.js.LICENSE.txt",
     "static/media/SquareBlack.png": "/adventure/static/media/SquareBlack.411ec2c3.png",
+    "static/media/australia.png": "/adventure/static/media/australia.665d4d9c.png",
+    "static/media/california.png": "/adventure/static/media/california.5cb411c3.png",
     "static/media/communication.png": "/adventure/static/media/communication.e1f61e21.png",
     "static/media/dsn.png": "/adventure/static/media/dsn.f2281ec4.png",
     "static/media/earth.png": "/adventure/static/media/earth.54231c06.png",
@@ -22,12 +24,13 @@
     "static/media/logo.png": "/adventure/static/media/logo.674de013.png",
     "static/media/rocket.png": "/adventure/static/media/rocket.ca5111d2.png",
     "static/media/rotation.gif": "/adventure/static/media/rotation.70d49678.gif",
-    "static/media/satellite.png": "/adventure/static/media/satellite.5dae729e.png"
+    "static/media/satellite.png": "/adventure/static/media/satellite.5dae729e.png",
+    "static/media/spain.png": "/adventure/static/media/spain.57124beb.png"
   },
   "entrypoints": [
     "static/js/runtime-main.afd66130.js",
-    "static/js/2.96669e03.chunk.js",
-    "static/css/main.6f977192.chunk.css",
-    "static/js/main.535c23ed.chunk.js"
+    "static/js/2.da029461.chunk.js",
+    "static/css/main.dc295314.chunk.css",
+    "static/js/main.5393a271.chunk.js"
   ]
 }
