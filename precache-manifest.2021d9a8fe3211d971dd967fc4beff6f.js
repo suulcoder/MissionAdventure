@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "041b55786e973c94c7300ba14a0c85c2",
+    "revision": "c0b307745bbc7f62080418daf550146e",
     "url": "/adventure/index.html"
   },
   {
-    "revision": "91974542fc75c74a21e2",
-    "url": "/adventure/static/css/main.dc295314.chunk.css"
+    "revision": "7e29793e140190639109",
+    "url": "/adventure/static/css/main.f899e50a.chunk.css"
   },
   {
     "revision": "6099ff510481cee730aa",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/adventure/static/js/2.da029461.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "91974542fc75c74a21e2",
-    "url": "/adventure/static/js/main.5393a271.chunk.js"
+    "revision": "7e29793e140190639109",
+    "url": "/adventure/static/js/main.7117528c.chunk.js"
   },
   {
     "revision": "e4166a28b80c1773ea4a",
@@ -36,6 +36,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/adventure/static/media/california.5cb411c3.png"
   },
   {
+    "revision": "75ca48cf1b3673711347452fdc5445ed",
+    "url": "/adventure/static/media/code.75ca48cf.jpg"
+  },
+  {
     "revision": "e1f61e21fafa8579524189784e9abac5",
     "url": "/adventure/static/media/communication.e1f61e21.png"
   },
@@ -46,6 +50,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "54231c0670e8902d0d828b27f9f54904",
     "url": "/adventure/static/media/earth.54231c06.png"
+  },
+  {
+    "revision": "6f95d7c25812b1738bbc78065223315a",
+    "url": "/adventure/static/media/entang.6f95d7c2.png"
+  },
+  {
+    "revision": "ccf029864d48956464a0b1b08c5a4c8c",
+    "url": "/adventure/static/media/installation.ccf02986.jpg"
   },
   {
     "revision": "d31031568818d69aac0738eba3133dc7",
