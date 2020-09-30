@@ -1,0 +1,42 @@
+.dsn {
+  align-items: center;
+  background: black;
+  box-sizing: border-box;
+  color: #F75027;
+  display: flex;
+  flex-direction: column;
+  padding: 32px 8px;
+  text-align: center;
+  width: 100%;
+}
+
+.dsn_title {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 32px;
+  letter-spacing: 4px;
+  margin-bottom: 8px;
+}
+
+.dsn_img {
+  width: 320px;
+}
+
+.dsn_title_button{
+  color: #F75027;
+  font-size: 16px;
+  border: none;
+  background: black;
+}
+
+.dsn_row {
+  display: flex;
+}
+
+.dsn_text {
+  margin: 64px 0;
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 13px;
+  max-width: 1100px;
+  text-align: justify;
+}
