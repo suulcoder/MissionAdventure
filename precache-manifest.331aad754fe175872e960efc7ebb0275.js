@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0bf9760571af9b8bcabe5873f1ba1d7c",
+    "revision": "72fa8f41b5977b86895baeafb9f779ac",
     "url": "/adventure/index.html"
   },
   {
-    "revision": "e4e0d4f3aad4c835a41c",
+    "revision": "7ed16c6b5023db75870c",
     "url": "/adventure/static/css/main.9d64366e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/adventure/static/js/2.96669e03.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e4e0d4f3aad4c835a41c",
-    "url": "/adventure/static/js/main.0e9c813b.chunk.js"
+    "revision": "7ed16c6b5023db75870c",
+    "url": "/adventure/static/js/main.6348a5c4.chunk.js"
   },
   {
     "revision": "e4166a28b80c1773ea4a",
@@ -34,10 +34,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "54231c0670e8902d0d828b27f9f54904",
     "url": "/adventure/static/media/earth.54231c06.png"
-  },
-  {
-    "revision": "1fdf659787c63ddbff1ae2d23193a0de",
-    "url": "/adventure/static/media/ground.1fdf6597.jpg"
   },
   {
     "revision": "d31031568818d69aac0738eba3133dc7",
