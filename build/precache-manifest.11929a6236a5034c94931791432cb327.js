@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "72fa8f41b5977b86895baeafb9f779ac",
+    "revision": "0bd3230b6e6251e411d018792857201a",
     "url": "/adventure/index.html"
   },
   {
-    "revision": "7ed16c6b5023db75870c",
-    "url": "/adventure/static/css/main.9d64366e.chunk.css"
+    "revision": "a11f9b7e68336abbb786",
+    "url": "/adventure/static/css/main.1249a4cd.chunk.css"
   },
   {
-    "revision": "59fbde5d86c90fac8dc0",
-    "url": "/adventure/static/js/2.96669e03.chunk.js"
+    "revision": "6099ff510481cee730aa",
+    "url": "/adventure/static/js/2.da029461.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/adventure/static/js/2.96669e03.chunk.js.LICENSE.txt"
+    "url": "/adventure/static/js/2.da029461.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7ed16c6b5023db75870c",
-    "url": "/adventure/static/js/main.6348a5c4.chunk.js"
+    "revision": "a11f9b7e68336abbb786",
+    "url": "/adventure/static/js/main.591701d0.chunk.js"
   },
   {
     "revision": "e4166a28b80c1773ea4a",
@@ -28,12 +28,36 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/adventure/static/media/SquareBlack.411ec2c3.png"
   },
   {
+    "revision": "665d4d9cf944ad1a58c6da0d7fae4c2d",
+    "url": "/adventure/static/media/australia.665d4d9c.png"
+  },
+  {
+    "revision": "5cb411c3c8c4b3d20beb3cdecaf25174",
+    "url": "/adventure/static/media/california.5cb411c3.png"
+  },
+  {
+    "revision": "75ca48cf1b3673711347452fdc5445ed",
+    "url": "/adventure/static/media/code.75ca48cf.jpg"
+  },
+  {
     "revision": "e1f61e21fafa8579524189784e9abac5",
     "url": "/adventure/static/media/communication.e1f61e21.png"
   },
   {
+    "revision": "f2281ec4611163fb5be55df91e5b2625",
+    "url": "/adventure/static/media/dsn.f2281ec4.png"
+  },
+  {
     "revision": "54231c0670e8902d0d828b27f9f54904",
     "url": "/adventure/static/media/earth.54231c06.png"
+  },
+  {
+    "revision": "6f95d7c25812b1738bbc78065223315a",
+    "url": "/adventure/static/media/entang.6f95d7c2.png"
+  },
+  {
+    "revision": "ccf029864d48956464a0b1b08c5a4c8c",
+    "url": "/adventure/static/media/installation.ccf02986.jpg"
   },
   {
     "revision": "d31031568818d69aac0738eba3133dc7",
@@ -62,5 +86,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5dae729ea7df123e75f5235451a2b445",
     "url": "/adventure/static/media/satellite.5dae729e.png"
+  },
+  {
+    "revision": "57124beb118f70041dc6201bd5360faa",
+    "url": "/adventure/static/media/spain.57124beb.png"
   }
 ]);
