@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/adventure/static/css/main.8c5c39b2.chunk.css",
+    "main.css": "/adventure/static/css/main.df5b5929.chunk.css",
     "main.js": "/adventure/static/js/main.5fa01aad.chunk.js",
     "main.js.map": "/adventure/static/js/main.5fa01aad.chunk.js.map",
     "runtime-main.js": "/adventure/static/js/runtime-main.afd66130.js",
@@ -8,9 +8,9 @@
     "static/js/2.da029461.chunk.js": "/adventure/static/js/2.da029461.chunk.js",
     "static/js/2.da029461.chunk.js.map": "/adventure/static/js/2.da029461.chunk.js.map",
     "index.html": "/adventure/index.html",
-    "precache-manifest.74feae062130f02bbfd81b6116163736.js": "/adventure/precache-manifest.74feae062130f02bbfd81b6116163736.js",
+    "precache-manifest.d625702854be48cdf8fc7ef05543c0b4.js": "/adventure/precache-manifest.d625702854be48cdf8fc7ef05543c0b4.js",
     "service-worker.js": "/adventure/service-worker.js",
-    "static/css/main.8c5c39b2.chunk.css.map": "/adventure/static/css/main.8c5c39b2.chunk.css.map",
+    "static/css/main.df5b5929.chunk.css.map": "/adventure/static/css/main.df5b5929.chunk.css.map",
     "static/js/2.da029461.chunk.js.LICENSE.txt": "/adventure/static/js/2.da029461.chunk.js.LICENSE.txt",
     "static/media/SquareBlack.png": "/adventure/static/media/SquareBlack.411ec2c3.png",
     "static/media/australia.png": "/adventure/static/media/australia.665d4d9c.png",
@@ -33,7 +33,7 @@
   "entrypoints": [
     "static/js/runtime-main.afd66130.js",
     "static/js/2.da029461.chunk.js",
-    "static/css/main.8c5c39b2.chunk.css",
+    "static/css/main.df5b5929.chunk.css",
     "static/js/main.5fa01aad.chunk.js"
   ]
 }
