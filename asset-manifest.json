@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/adventure/static/css/main.f899e50a.chunk.css",
-    "main.js": "/adventure/static/js/main.7117528c.chunk.js",
-    "main.js.map": "/adventure/static/js/main.7117528c.chunk.js.map",
+    "main.css": "/adventure/static/css/main.c4404fb9.chunk.css",
+    "main.js": "/adventure/static/js/main.69521b09.chunk.js",
+    "main.js.map": "/adventure/static/js/main.69521b09.chunk.js.map",
     "runtime-main.js": "/adventure/static/js/runtime-main.afd66130.js",
     "runtime-main.js.map": "/adventure/static/js/runtime-main.afd66130.js.map",
     "static/js/2.da029461.chunk.js": "/adventure/static/js/2.da029461.chunk.js",
     "static/js/2.da029461.chunk.js.map": "/adventure/static/js/2.da029461.chunk.js.map",
     "index.html": "/adventure/index.html",
-    "precache-manifest.2021d9a8fe3211d971dd967fc4beff6f.js": "/adventure/precache-manifest.2021d9a8fe3211d971dd967fc4beff6f.js",
+    "precache-manifest.028ac0a5886d34e91d5b206380f98211.js": "/adventure/precache-manifest.028ac0a5886d34e91d5b206380f98211.js",
     "service-worker.js": "/adventure/service-worker.js",
-    "static/css/main.f899e50a.chunk.css.map": "/adventure/static/css/main.f899e50a.chunk.css.map",
+    "static/css/main.c4404fb9.chunk.css.map": "/adventure/static/css/main.c4404fb9.chunk.css.map",
     "static/js/2.da029461.chunk.js.LICENSE.txt": "/adventure/static/js/2.da029461.chunk.js.LICENSE.txt",
     "static/media/SquareBlack.png": "/adventure/static/media/SquareBlack.411ec2c3.png",
     "static/media/australia.png": "/adventure/static/media/australia.665d4d9c.png",
@@ -33,7 +33,7 @@
   "entrypoints": [
     "static/js/runtime-main.afd66130.js",
     "static/js/2.da029461.chunk.js",
-    "static/css/main.f899e50a.chunk.css",
-    "static/js/main.7117528c.chunk.js"
+    "static/css/main.c4404fb9.chunk.css",
+    "static/js/main.69521b09.chunk.js"
   ]
 }
